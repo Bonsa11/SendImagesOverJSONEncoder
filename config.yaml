@@ -1,0 +1,5 @@
+url: http://<internal_ip>:<port>/some/endpoint
+file_dir: /some/absolute/path
+image_extensions:
+  - jpg
+  - jpeg
